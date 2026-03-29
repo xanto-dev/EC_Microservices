@@ -1,7 +1,84 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\ec_gateway\\routes\\ocelot.ressources.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|solutionrelative:ec_gateway\\routes\\ocelot.ressources.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\ec_gateway\\routes\\ocelot.swaggerendpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|solutionrelative:ec_gateway\\routes\\ocelot.swaggerendpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\ec_gateway\\routes\\ocelot.utilisateurs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|solutionrelative:ec_gateway\\routes\\ocelot.utilisateurs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\ec_gateway\\routes\\ocelot.reservations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|solutionrelative:ec_gateway\\routes\\ocelot.reservations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\ec_gateway\\routes\\ocelot.global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|solutionrelative:ec_gateway\\routes\\ocelot.global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\ec_gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D544B0-633A-4194-99AF-E1A0661A34ED}|EC_Gateway\\EC_Gateway.csproj|solutionrelative:ec_gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36717717-EAD4-46DE-9D6E-735975AF16E2}|Service_Notifications\\Service_Notifications.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_notifications\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36717717-EAD4-46DE-9D6E-735975AF16E2}|Service_Notifications\\Service_Notifications.csproj|solutionrelative:service_notifications\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B814754-2962-4508-88E0-4A5C3385568F}|Service_Authentification\\Service_Authentification.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_authentification\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B814754-2962-4508-88E0-4A5C3385568F}|Service_Authentification\\Service_Authentification.csproj|solutionrelative:service_authentification\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ED5A09-5AB3-47EE-B8D1-EAAFBF363A82}|Service_Paiement\\Service_Paiement.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_paiement\\models\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ED5A09-5AB3-47EE-B8D1-EAAFBF363A82}|Service_Paiement\\Service_Paiement.csproj|solutionrelative:service_paiement\\models\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71F790C-DE0E-455F-A318-06A19D0A2239}|Service_Reservations\\Service_Reservations.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_reservations\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71F790C-DE0E-455F-A318-06A19D0A2239}|Service_Reservations\\Service_Reservations.csproj|solutionrelative:service_reservations\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808C959B-D52D-4D1C-B905-C86A3C0F4224}|Service_Ressources\\Service_Ressources.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_ressources\\models\\ressource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808C959B-D52D-4D1C-B905-C86A3C0F4224}|Service_Ressources\\Service_Ressources.csproj|solutionrelative:service_ressources\\models\\ressource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D296226F-7DCF-4AD1-945E-10D3BDFE16C8}|Service_Utilisateurs\\Service_Utilisateurs.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_utilisateurs\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D296226F-7DCF-4AD1-945E-10D3BDFE16C8}|Service_Utilisateurs\\Service_Utilisateurs.csproj|solutionrelative:service_utilisateurs\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B814754-2962-4508-88E0-4A5C3385568F}|Service_Authentification\\Service_Authentification.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_authentification\\models\\tokenrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B814754-2962-4508-88E0-4A5C3385568F}|Service_Authentification\\Service_Authentification.csproj|solutionrelative:service_authentification\\models\\tokenrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808C959B-D52D-4D1C-B905-C86A3C0F4224}|Service_Ressources\\Service_Ressources.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_ressources\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{808C959B-D52D-4D1C-B905-C86A3C0F4224}|Service_Ressources\\Service_Ressources.csproj|solutionrelative:service_ressources\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D296226F-7DCF-4AD1-945E-10D3BDFE16C8}|Service_Utilisateurs\\Service_Utilisateurs.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_utilisateurs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D296226F-7DCF-4AD1-945E-10D3BDFE16C8}|Service_Utilisateurs\\Service_Utilisateurs.csproj|solutionrelative:service_utilisateurs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71F790C-DE0E-455F-A318-06A19D0A2239}|Service_Reservations\\Service_Reservations.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_reservations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F71F790C-DE0E-455F-A318-06A19D0A2239}|Service_Reservations\\Service_Reservations.csproj|solutionrelative:service_reservations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ED5A09-5AB3-47EE-B8D1-EAAFBF363A82}|Service_Paiement\\Service_Paiement.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_paiement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3ED5A09-5AB3-47EE-B8D1-EAAFBF363A82}|Service_Paiement\\Service_Paiement.csproj|solutionrelative:service_paiement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36717717-EAD4-46DE-9D6E-735975AF16E2}|Service_Notifications\\Service_Notifications.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_notifications\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36717717-EAD4-46DE-9D6E-735975AF16E2}|Service_Notifications\\Service_Notifications.csproj|solutionrelative:service_notifications\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B814754-2962-4508-88E0-4A5C3385568F}|Service_Authentification\\Service_Authentification.csproj|c:\\users\\elhadj boubacar bah\\desktop\\projets tce\\ec_microservices\\service_authentification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B814754-2962-4508-88E0-4A5C3385568F}|Service_Authentification\\Service_Authentification.csproj|solutionrelative:service_authentification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +95,253 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "EC_Gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Program.cs",
+              "RelativeToolTip": "EC_Gateway\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T21:46:57.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.ressources.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.ressources.json",
+              "RelativeDocumentMoniker": "EC_Gateway\\Routes\\ocelot.ressources.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.ressources.json",
+              "RelativeToolTip": "EC_Gateway\\Routes\\ocelot.ressources.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T21:32:31.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ocelot.reservations.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.reservations.json",
+              "RelativeDocumentMoniker": "EC_Gateway\\Routes\\ocelot.reservations.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.reservations.json",
+              "RelativeToolTip": "EC_Gateway\\Routes\\ocelot.reservations.json",
+              "ViewState": "AgIAAAQAAAAgjUdza6cvwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T21:30:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ocelot.SwaggerEndPoints.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.SwaggerEndPoints.json",
+              "RelativeDocumentMoniker": "EC_Gateway\\Routes\\ocelot.SwaggerEndPoints.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.SwaggerEndPoints.json",
+              "RelativeToolTip": "EC_Gateway\\Routes\\ocelot.SwaggerEndPoints.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T21:26:19.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ocelot.utilisateurs.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.utilisateurs.json",
+              "RelativeDocumentMoniker": "EC_Gateway\\Routes\\ocelot.utilisateurs.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.utilisateurs.json",
+              "RelativeToolTip": "EC_Gateway\\Routes\\ocelot.utilisateurs.json",
+              "ViewState": "AgIAAAUAAADADzaoq7YwwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T21:25:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ocelot.global.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.global.json",
+              "RelativeDocumentMoniker": "EC_Gateway\\Routes\\ocelot.global.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\EC_Gateway\\Routes\\ocelot.global.json",
+              "RelativeToolTip": "EC_Gateway\\Routes\\ocelot.global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T21:03:03.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Notifications\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Service_Notifications\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Notifications\\Models\\Notification.cs",
+              "RelativeToolTip": "Service_Notifications\\Models\\Notification.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T21:04:30.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Paiement.cs",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Paiement\\Models\\Paiement.cs",
+              "RelativeDocumentMoniker": "Service_Paiement\\Models\\Paiement.cs",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Paiement\\Models\\Paiement.cs",
+              "RelativeToolTip": "Service_Paiement\\Models\\Paiement.cs",
+              "ViewState": "AgIAAAgAAAAApPlzlBQdwA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:57:37.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Reservations\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Service_Reservations\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Reservations\\Models\\Reservation.cs",
+              "RelativeToolTip": "Service_Reservations\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:56:04.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ressource.cs",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Ressources\\Models\\Ressource.cs",
+              "RelativeDocumentMoniker": "Service_Ressources\\Models\\Ressource.cs",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Ressources\\Models\\Ressource.cs",
+              "RelativeToolTip": "Service_Ressources\\Models\\Ressource.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBAwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:54:40.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Utilisateurs\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Service_Utilisateurs\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Utilisateurs\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "Service_Utilisateurs\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:47:56.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenRecord.cs",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Authentification\\Models\\TokenRecord.cs",
+              "RelativeDocumentMoniker": "Service_Authentification\\Models\\TokenRecord.cs",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Authentification\\Models\\TokenRecord.cs",
+              "RelativeToolTip": "Service_Authentification\\Models\\TokenRecord.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wBsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:40:33.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Utilisateurs\\appsettings.json",
+              "RelativeDocumentMoniker": "Service_Utilisateurs\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Utilisateurs\\appsettings.json",
+              "RelativeToolTip": "Service_Utilisateurs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T20:27:22.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Ressources\\appsettings.json",
+              "RelativeDocumentMoniker": "Service_Ressources\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Ressources\\appsettings.json",
+              "RelativeToolTip": "Service_Ressources\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T20:27:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Reservations\\appsettings.json",
+              "RelativeDocumentMoniker": "Service_Reservations\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Reservations\\appsettings.json",
+              "RelativeToolTip": "Service_Reservations\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T20:27:01.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Paiement\\appsettings.json",
+              "RelativeDocumentMoniker": "Service_Paiement\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Paiement\\appsettings.json",
+              "RelativeToolTip": "Service_Paiement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T20:26:46.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Notifications\\appsettings.json",
+              "RelativeDocumentMoniker": "Service_Notifications\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Notifications\\appsettings.json",
+              "RelativeToolTip": "Service_Notifications\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T20:21:34.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Authentification\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Service_Authentification\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Authentification\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Service_Authentification\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:23:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Authentification\\appsettings.json",
+              "RelativeDocumentMoniker": "Service_Authentification\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELHADJ BOUBACAR BAH\\Desktop\\PROJETS TCE\\EC_Microservices\\Service_Authentification\\appsettings.json",
+              "RelativeToolTip": "Service_Authentification\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T20:15:50.252Z",
+              "EditorCaption": ""
             }
           ]
         }
