@@ -1,0 +1,47 @@
+## [Visual Studio]
+# Fichiers de configuration utilisateur et caches
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## [Build et Binaires]
+# Exclure les dossiers de compilation de chaque microservice
+bin/
+obj/
+
+## [Packages NuGet]
+# Les packages sont restaurés automatiquement au build
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
+
+## [Fichiers de base de données]
+# Exclure les fichiers de base de données locaux (LocalDB)
+*.mdf
+*.ldf
+*.sdf
+
+## [Secrets et Configuration]
+# Il est conseillé d'ignorer les secrets ou les configs de dev contenant des clés
+# appsettings.Development.json # Décommente si tu veux garder tes clés Stripe privées
+usersecrets.json
+
+## [Outils et OS]
+# Fichiers système
+.DS_Store
+thumbs.db
+desktop.ini
+
+## [Logs]
+*.log
+
+## [Azure & Déploiement]
+*.publishsettings
+.azure/
